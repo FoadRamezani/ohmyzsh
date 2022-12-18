@@ -11,3 +11,6 @@ The best bash for communicating with GitHub
 6 - We must select one of them such as Blinks .<br /><br />
 7 - You must change the variable wich is located on the .zshrc with the name of ZSH_THEME with your Theme . For Example : `ZSH_THEME="blinks"`<br /><br />
 8 - Save your file and you now have a ohmyzsh ! <br />
+
+
+** If you get error for installing zsh first , you can install it with this command : `sudo apt-get install zsh`<br />
